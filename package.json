@@ -11,11 +11,11 @@
   "license": "ISC",
   "dependencies": {
     "css-loader": "^3.6.0",
-    "mirador": "npm:mirador-video@1.0.0",
-    "mirador-annotations": "npm:mirador-annotation-editor@1.0.3",
+    "mirador": "npm:mirador-video@1.0.5",
+    "mirador-annotations": "npm:mirador-annotation-editor@1.0.19",
     "parcel-bundler": "^1.12.4",
-    "react": "^17.0.0",
-    "react-dom": "^17.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "style-loader": "^1.2.1",
     "webpack": "^5.70.0",
     "webpack-cli": "^5.0.0"

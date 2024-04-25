@@ -1,6 +1,6 @@
 import Mirador from 'mirador/dist/es/src/index';
-import annotationPlugins from 'mirador-annotations';
-import LocalStorageAdapter from 'mirador-annotations/es/LocalStorageAdapter';
+import { annotationPlugins } from 'mirador-annotations/es';
+import { LocalStorageAdapter } from 'mirador-annotations/es/LocalStorageAdapter';
 
 const config = {
   id: 'demo',
